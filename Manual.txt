@@ -1,0 +1,35 @@
+Masuk ke admin (user : admin, pass : 4dmin-APS, masuk sebagai : admin)
+	A. Menu Tata Tertib
+	1. tambah data kategori pelanggaran : hal. admin -> tata tertib -> kategori pelanggaran -> tambah jenis pelanggaran
+	2. tambah, edit, hapus bentuk pelanggaran : hal. admin -> tata tertib -> kategori pelanggaran -> bentuk pelanggaran 
+	3. tambah sanksi :  hal admin -> tata tertib -> tambah sanksi pelanggaran
+
+	B. Pelanggaran siswa
+		Hanya untuk melihat rekap seluruh data pelanggaran siswa, tidak dapat menambah data pelanggaran karena data pelanggaran hanya boleh ditambahkan oleh guru BK
+
+	C. Kelas
+	1. tambah data kelas : hal. admin -> kelas -> tambah data kelas
+	2. tambah siswa : hal. admin -> kelas -> Lihat siswa -> Tambah Siswa
+
+	D. Siswa
+	1. Melihat data pelanggaran siswa : hal admin -> siswa -> klik pada nama siswa
+	2. Cetak rekap pelanggaran siswa : hal admin -> siswa -> klik icon gambar printer
+	3. Cari pelanggaran siswa : hal admin -> siswa -> klik kotak search -> ketikkan nama siswa
+	
+
+	E. Guru
+	//untuk menambah data guru yang data mengisi pelanggaran siswa
+	1. tambah data guru : hal. admin -> guru -> tambah data guru
+	
+
+Masuk ke halaman guru (user : guru, pass : guru, masuk sebagai : guru)
+	A. dasboard
+	// menampilkan grafik pelanggaran siswa dan 5 pelanggaran sisw ateratas
+	B. input pelanggaran : hal. guru -> input palanggaran -> pilih kelas -> cari nama siswa kemudian centang jenis pelanggarannya dan sismpan
+
+	C. Sanksi
+	//menampilkan sanksi untuk pelanggaran siswa
+
+	D. History
+	//menampilkan history pelanggaran siswa terakhir 
+	
